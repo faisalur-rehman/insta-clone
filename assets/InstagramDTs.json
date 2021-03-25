@@ -1,0 +1,76 @@
+{
+	"AccountInfos":{
+		"Name":	"Amine",
+		"Desc":	"Amine",
+		"Password":	"XXXX",
+		"Email": "xxx@xxx.com",
+		"Picture": "https://www.pngitem.com/pimgs/m/150-1503945_transparent-user-png-default-user-image-png-png.png",
+		"Following": "400",
+		"Followers": "19",
+		"Posts": "4"
+	},
+	
+	"ProfilePosts" : [
+		{"PostPicURL":"https://www.pngitem.com/pimgs/m/150-1503945_transparent-user-png-default-user-image-png-png.png"},
+		{"PostPicURL":"https://www.pngitem.com/pimgs/m/150-1503945_transparent-user-png-default-user-image-png-png.png"},
+		{"PostPicURL":"https://www.pngitem.com/pimgs/m/150-1503945_transparent-user-png-default-user-image-png-png.png"},
+		{"PostPicURL":"https://www.pngitem.com/pimgs/m/150-1503945_transparent-user-png-default-user-image-png-png.png"},
+		{"PostPicURL":"https://www.pngitem.com/pimgs/m/150-1503945_transparent-user-png-default-user-image-png-png.png"},
+		{"PostPicURL":"https://www.pngitem.com/pimgs/m/150-1503945_transparent-user-png-default-user-image-png-png.png"},
+		{"PostPicURL":"https://www.pngitem.com/pimgs/m/150-1503945_transparent-user-png-default-user-image-png-png.png"}
+	],
+		
+	"Stories":[
+		{"Pic":"https://www.pngitem.com/pimgs/m/150-1503945_transparent-user-png-default-user-image-png-png.png"},
+		{"Pic":"https://www.pngitem.com/pimgs/m/150-1503945_transparent-user-png-default-user-image-png-png.png"},
+		{"Pic":"https://www.pngitem.com/pimgs/m/150-1503945_transparent-user-png-default-user-image-png-png.png"},
+		{"Pic":"https://www.pngitem.com/pimgs/m/150-1503945_transparent-user-png-default-user-image-png-png.png"},
+		{"Pic":"https://www.pngitem.com/pimgs/m/150-1503945_transparent-user-png-default-user-image-png-png.png"},
+		{"Pic":"https://www.pngitem.com/pimgs/m/150-1503945_transparent-user-png-default-user-image-png-png.png"},
+		{"Pic":"https://www.pngitem.com/pimgs/m/150-1503945_transparent-user-png-default-user-image-png-png.png"}
+	],
+	
+	"Feed":
+	[
+		{
+		"Name": "User1",
+		"ProfilePic": "https://www.pngitem.com/pimgs/m/150-1503945_transparent-user-png-default-user-image-png-png.png",
+		"PostPic": "https://www.pngitem.com/pimgs/m/13-139865_yellow-post-it-clip-art-yellow-post-it.png",
+		"Likes": "1345",
+		"Comments": "32"
+		},
+		
+		{
+		"Name": "User2",
+		"ProfilePic": "https://www.pngitem.com/pimgs/m/150-1503945_transparent-user-png-default-user-image-png-png.png",
+		"PostPic": "https://www.pngitem.com/pimgs/m/13-139865_yellow-post-it-clip-art-yellow-post-it.png",
+		"Likes": "87",
+		"Comments": "3"
+		}
+		
+	],
+	
+	"DMs":
+	[
+		{
+		"ProfileName":"Hamza",
+		"ProfilePic":"https://instagram.frba4-1.fna.fbcdn.net/v/t51.2885-19/s150x150/116541626_986607035124583_5316999695778172758_n.jpg?_nc_ht=instagram.frba4-1.fna.fbcdn.net&_nc_ohc=MFCBPLNrwwAAX9yECZP&tp=1&oh=604986336a3d0b738a7c6bcf4cd875b6&oe=60296F71",
+		"LastMsgContent":"Thanks man",
+		"Timing":"14h"
+		},
+		
+		{
+		"ProfileName":"Anas",
+		"ProfilePic":"https://instagram.frba4-1.fna.fbcdn.net/v/t51.2885-19/s150x150/116541626_986607035124583_5316999695778172758_n.jpg?_nc_ht=instagram.frba4-1.fna.fbcdn.net&_nc_ohc=MFCBPLNrwwAAX9yECZP&tp=1&oh=604986336a3d0b738a7c6bcf4cd875b6&oe=60296F71",
+		"LastMsgContent":"ok good!",
+		"Timing":"16h"
+		},	
+		
+		{
+		"ProfileName":"Salma",
+		"ProfilePic":"https://instagram.frba4-1.fna.fbcdn.net/v/t51.2885-19/s150x150/116541626_986607035124583_5316999695778172758_n.jpg?_nc_ht=instagram.frba4-1.fna.fbcdn.net&_nc_ohc=MFCBPLNrwwAAX9yECZP&tp=1&oh=604986336a3d0b738a7c6bcf4cd875b6&oe=60296F71",
+		"LastMsgContent":"yeah!",
+		"Timing":"1w"
+		}
+	]
+}
